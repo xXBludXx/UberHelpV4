@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Environment]
+"ANDROID_SDK_ROOT"="C:\\Users\\Welsh Pawn\\Desktop\\AndroidSDK"
+"ANDROID_HOME"="C:\\Users\\Welsh Pawn\\Desktop\\AndroidSDK"
+"GRADLE_USER_HOME"="C:\\Users\\Welsh Pawn\\.gradle" 
