@@ -68,4 +68,10 @@ lint/outputs/
 lint/tmp/
 
 # macOS
-.DS_Store 
+.DS_Store
+
+# Temporary ignore for problematic files
+/uberhelp/
+/uberhelp/gradle/wrapper/
+/uberhelp/gradlew
+/uberhelp/gradlew.bat 
