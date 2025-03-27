@@ -1,6 +1,19 @@
 # UberHelpV8: AI-Powered Efficiency App for Uber Drivers
 
-UberHelpV8 is an Android application designed to help Uber drivers maximize their earnings by intelligently evaluating trip offers and automating acceptance decisions based on profitability metrics.
+An Android application designed to help Uber drivers maximize their earnings through automated trip offer evaluation and acceptance.
+
+## Project Setup Instructions (Windows)
+
+### Environment Setup
+1. **Important**: Use the provided `StartAndroidStudio.bat` file to properly set up environment variables before opening Android Studio
+2. Double-click `StartAndroidStudio.bat` to set the GRADLE_USER_HOME environment variable and launch Android Studio
+3. When Android Studio opens, select "Open an Existing Project" and navigate to this folder
+
+### Troubleshooting
+If you encounter Gradle distribution download issues:
+1. Ensure the GRADLE_USER_HOME environment variable is set correctly
+2. Check that you have internet connectivity
+3. Make sure the `.gradle` directory has proper write permissions
 
 ## Features
 
